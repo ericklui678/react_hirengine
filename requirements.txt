@@ -1,0 +1,10 @@
+Easy Fixes:
+	- Dashboard with no assessment should show 0% on all circles
+		- Also notify user to take assessment
+	- Dashboard with assessment stays as is
+	- Real company names on dashboard
+	- Map should show address of selected company
+
+Backend:
+	- Login / Register should create user or check user credentials
+	- Assessment data must be written to user's schema

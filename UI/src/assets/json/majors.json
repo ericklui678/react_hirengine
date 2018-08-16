@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Accounting",
+    "value": "Accounting"
+  },
+  {
+    "text": "Actuarial Science",
+    "value": "Actuarial Science"
+  },
+  {
+    "text": "Advertising",
+    "value": "Advertising"
+  },
+  {
+    "text": "Agriculture",
+    "value": "Agriculture"
+  },
+  {
+    "text": "Agricultural and Biological Engineering",
+    "value": "Agricultural and Biological Engineering"
+  },
+  {
+    "text": "Agricultural Business Management",
+    "value": "Agricultural Business Management"
+  },
+  {
+    "text": "Agriculture Economics",
+    "value": "Agriculture Economics"
+  },
+  {
+    "text": "Animal Bioscience",
+    "value": "Animal Bioscience"
+  },
+  {
+    "text": "Animal Sciences",
+    "value": "Animal Sciences"
+  },
+  {
+    "text": "Anthropology",
+    "value": "Anthropology"
+  },
+  {
+    "text": "Applied Mathematics",
+    "value": "Applied Mathematics"
+  },
+  {
+    "text": "Archaeology",
+    "value": "Archaeology"
+  },
+  {
+    "text": "Architectural Engineering",
+    "value": "Architectural Engineering"
+  },
+  {
+    "text": "Architecture",
+    "value": "Architecture"
+  },
+  {
+    "text": "Art History",
+    "value": "Art History"
+  },
+  {
+    "text": "Studio Art",
+    "value": "Studio Art"
+  },
+  {
+    "text": "Art Education",
+    "value": "Art Education"
+  },
+  {
+    "text": "Biobehavioral Health",
+    "value": "Biobehavioral Health"
+  },
+  {
+    "text": "Biochemistry",
+    "value": "Biochemistry"
+  },
+  {
+    "text": "Bioengineering",
+    "value": "Bioengineering"
+  },
+  {
+    "text": "Biology",
+    "value": "Biology"
+  },
+  {
+    "text": "Biophysics",
+    "value": "Biophysics"
+  },
+  {
+    "text": "Biotechnology",
+    "value": "Biotechnology"
+  },
+  {
+    "text": "Business Administration and Management",
+    "value": "Business Administration and Management"
+  },
+  {
+    "text": "Business Logistics",
+    "value": "Business Logistics"
+  },
+  {
+    "text": "Chemical Engineering",
+    "value": "Chemical Engineering"
+  },
+  {
+    "text": "Chemistry",
+    "value": "Chemistry"
+  },
+  {
+    "text": "Children",
+    "value": "Children"
+  },
+  {
+    "text": "Civil Engineering",
+    "value": "Civil Engineering"
+  },
+  {
+    "text": "Computer Engineering",
+    "value": "Computer Engineering"
+  },
+  {
+    "text": "Computer Science",
+    "value": "Computer Science"
+  },
+  {
+    "text": "Crime, Law, and Justice",
+    "value": "Crime, Law, and Justice"
+  },
+  {
+    "text": "Dance",
+    "value": "Dance"
+  },
+  {
+    "text": "Earth Sciences",
+    "value": "Earth Sciences"
+  },
+  {
+    "text": "Economics",
+    "value": "Economics"
+  },
+  {
+    "text": "Electrical Engineering",
+    "value": "Electrical Engineering"
+  },
+  {
+    "text": "Elementary and Kindergarten Education",
+    "value": "Elementary and Kindergarten Education"
+  },
+  {
+    "text": "Engineering Science",
+    "value": "Engineering Science"
+  },
+  {
+    "text": "English",
+    "value": "English"
+  },
+  {
+    "text": "Environmental Systems Engineering",
+    "value": "Environmental Systems Engineering"
+  },
+  {
+    "text": "Environmental Sciences",
+    "value": "Environmental Sciences"
+  },
+  {
+    "text": "Environmental Resource Management",
+    "value": "Environmental Resource Management"
+  },
+  {
+    "text": "Film and Video",
+    "value": "Film and Video"
+  },
+  {
+    "text": "Finance",
+    "value": "Finance"
+  },
+  {
+    "text": "Food Science",
+    "value": "Food Science"
+  },
+  {
+    "text": "Forest Science",
+    "value": "Forest Science"
+  },
+  {
+    "text": "Forest Technology",
+    "value": "Forest Technology"
+  },
+  {
+    "text": "General Science",
+    "value": "General Science"
+  },
+  {
+    "text": "Geography",
+    "value": "Geography"
+  },
+  {
+    "text": "Geosciences",
+    "value": "Geosciences"
+  },
+  {
+    "text": "Graphic Design and Photography",
+    "value": "Graphic Design and Photography"
+  },
+  {
+    "text": "Health and Physical Education",
+    "value": "Health and Physical Education"
+  },
+  {
+    "text": "Health Policy and Administration",
+    "value": "Health Policy and Administration"
+  },
+  {
+    "text": "History",
+    "value": "History"
+  },
+  {
+    "text": "Horticulture",
+    "value": "Horticulture"
+  },
+  {
+    "text": "Hotel, Restaurant, and Institutional Management",
+    "value": "Hotel, Restaurant, and Institutional Management"
+  },
+  {
+    "text": "Human Development and Family Studies",
+    "value": "Human Development and Family Studies"
+  },
+  {
+    "text": "Individual and Family Studies",
+    "value": "Individual and Family Studies"
+  },
+  {
+    "text": "Industrial Engineering",
+    "value": "Industrial Engineering"
+  },
+  {
+    "text": "Information Sciences and Technology",
+    "value": "Information Sciences and Technology"
+  },
+  {
+    "text": "Journalism",
+    "value": "Journalism"
+  },
+  {
+    "text": "Kinesiology",
+    "value": "Kinesiology"
+  },
+  {
+    "text": "Landscape Architecture",
+    "value": "Landscape Architecture"
+  },
+  {
+    "text": "Law Enforcement and Correction",
+    "value": "Law Enforcement and Correction"
+  },
+  {
+    "text": "Marine Biology",
+    "value": "Marine Biology"
+  },
+  {
+    "text": "Marketing",
+    "value": "Marketing"
+  },
+  {
+    "text": "Mathematics",
+    "value": "Mathematics"
+  },
+  {
+    "text": "Mechanical Engineering",
+    "value": "Mechanical Engineering"
+  },
+  {
+    "text": "Media Studies",
+    "value": "Media Studies"
+  },
+  {
+    "text": "Meteorology",
+    "value": "Meteorology"
+  },
+  {
+    "text": "Microbiology",
+    "value": "Microbiology"
+  },
+  {
+    "text": "Mineral Economics",
+    "value": "Mineral Economics"
+  },
+  {
+    "text": "Modern Languages",
+    "value": "Modern Languages"
+  },
+  {
+    "text": "Music Education",
+    "value": "Music Education"
+  },
+  {
+    "text": "Nuclear Engineering",
+    "value": "Nuclear Engineering"
+  },
+  {
+    "text": "Nursing",
+    "value": "Nursing"
+  },
+  {
+    "text": "Nutrition",
+    "value": "Nutrition"
+  },
+  {
+    "text": "Philosophy",
+    "value": "Philosophy"
+  },
+  {
+    "text": "Physics",
+    "value": "Physics"
+  },
+  {
+    "text": "Physiology",
+    "value": "Physiology"
+  },
+  {
+    "text": "Political Science",
+    "value": "Political Science"
+  },
+  {
+    "text": "Pre-medicine",
+    "value": "Pre-medicine"
+  },
+  {
+    "text": "Psychology",
+    "value": "Psychology"
+  },
+  {
+    "text": "Public Relations",
+    "value": "Public Relations"
+  },
+  {
+    "text": "Real Estate",
+    "value": "Real Estate"
+  },
+  {
+    "text": "Recreation and Parks",
+    "value": "Recreation and Parks"
+  },
+  {
+    "text": "Rehabilitation Services",
+    "value": "Rehabilitation Services"
+  },
+  {
+    "text": "Religious Studies",
+    "value": "Religious Studies"
+  },
+  {
+    "text": "Secondary Education",
+    "value": "Secondary Education"
+  },
+  {
+    "text": "Sociology",
+    "value": "Sociology"
+  },
+  {
+    "text": "Social Work",
+    "value": "Social Work"
+  },
+  {
+    "text": "Special Education",
+    "value": "Special Education"
+  },
+  {
+    "text": "Speech Communication",
+    "value": "Speech Communication"
+  },
+  {
+    "text": "Speech Pathology and Audiology/Communication Disorder",
+    "value": "Speech Pathology and Audiology/Communication Disorder"
+  },
+  {
+    "text": "Statistics",
+    "value": "Statistics"
+  },
+  {
+    "text": "Telecommunications",
+    "value": "Telecommunications"
+  },
+  {
+    "text": "Theater",
+    "value": "Theater"
+  },
+  {
+    "text": "Wildlife and Fishery Science",
+    "value": "Wildlife and Fishery Science"
+  },
+  {
+    "text": "Wildlife Technology",
+    "value": "Wildlife Technology"
+  },
+  {
+    "text": "Women's Studies",
+    "value": "Women's Studies"
+  }
+]

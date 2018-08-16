@@ -1,0 +1,70 @@
+.ui.vertical.menu .item > i.icon.left {
+  float: none;
+  margin: 0em 1em 0em 0em;
+}
+
+.ui.input.dashboard-search > .prompt {
+  border-radius: 0;
+  border: 0;
+  box-shadow: 0px 3px 5px #e7e7e8;
+  height: 60px;
+  z-index: auto;
+}
+
+/* fixed sidebar to left side */
+#sidebar {
+  background-color: yellow;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 240px;
+  overflow-x: hidden;
+  z-index: 1;
+}
+
+/* prevents dashboard content from overlapping with sidebar */
+#content {
+  margin-left: 240px;
+  min-width: 550px;
+}
+
+/* @media query to remove column dividers if smaller than 1200px */
+@media only screen and (max-width: 1440px) {
+  #content .ui.divided.grid .eight.wide.computer {
+    box-shadow: none !important;
+  }
+}
+
+/* adds more padding for two rows in dashboard content */
+#content .row {
+  padding: 20px 0;
+}
+
+/* company list styling on dashboard */
+#content .ui.list {
+  height: 350px;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/* force padding on dashboard list items */
+#content .ui.list .item {
+  padding: 20px 40px !important;
+}
+
+/* padding-y for content-bottom on dashboard */
+#content-bottom .column {
+  padding: 10px 0;
+}
+
+/* .row {
+  border: 1px solid red !important;
+}
+
+.column {
+  border: 1px solid blue !important;
+} */

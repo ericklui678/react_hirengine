@@ -1,0 +1,3702 @@
+[
+  {
+    "text": "Abilene",
+    "value": "Abilene"
+  },
+  {
+    "text": "Addison",
+    "value": "Addison"
+  },
+  {
+    "text": "Akron",
+    "value": "Akron"
+  },
+  {
+    "text": "Alameda",
+    "value": "Alameda"
+  },
+  {
+    "text": "Albany",
+    "value": "Albany"
+  },
+  {
+    "text": "Albuquerque",
+    "value": "Albuquerque"
+  },
+  {
+    "text": "Alexandria",
+    "value": "Alexandria"
+  },
+  {
+    "text": "Alhambra",
+    "value": "Alhambra"
+  },
+  {
+    "text": "Aliso Viejo",
+    "value": "Aliso Viejo"
+  },
+  {
+    "text": "Allen",
+    "value": "Allen"
+  },
+  {
+    "text": "Allentown",
+    "value": "Allentown"
+  },
+  {
+    "text": "Alpharetta",
+    "value": "Alpharetta"
+  },
+  {
+    "text": "Altamonte Springs",
+    "value": "Altamonte Springs"
+  },
+  {
+    "text": "Altoona",
+    "value": "Altoona"
+  },
+  {
+    "text": "Amarillo",
+    "value": "Amarillo"
+  },
+  {
+    "text": "Ames",
+    "value": "Ames"
+  },
+  {
+    "text": "Anaheim",
+    "value": "Anaheim"
+  },
+  {
+    "text": "Anchorage",
+    "value": "Anchorage"
+  },
+  {
+    "text": "Anderson",
+    "value": "Anderson"
+  },
+  {
+    "text": "Ankeny",
+    "value": "Ankeny"
+  },
+  {
+    "text": "Ann Arbor",
+    "value": "Ann Arbor"
+  },
+  {
+    "text": "Annapolis",
+    "value": "Annapolis"
+  },
+  {
+    "text": "Antioch",
+    "value": "Antioch"
+  },
+  {
+    "text": "Apache Junction",
+    "value": "Apache Junction"
+  },
+  {
+    "text": "Apex",
+    "value": "Apex"
+  },
+  {
+    "text": "Apopka",
+    "value": "Apopka"
+  },
+  {
+    "text": "Apple Valley",
+    "value": "Apple Valley"
+  },
+  {
+    "text": "Appleton",
+    "value": "Appleton"
+  },
+  {
+    "text": "Arcadia",
+    "value": "Arcadia"
+  },
+  {
+    "text": "Arlington",
+    "value": "Arlington"
+  },
+  {
+    "text": "Arlington Heights",
+    "value": "Arlington Heights"
+  },
+  {
+    "text": "Arvada",
+    "value": "Arvada"
+  },
+  {
+    "text": "Asheville",
+    "value": "Asheville"
+  },
+  {
+    "text": "Athens-Clarke County",
+    "value": "Athens-Clarke County"
+  },
+  {
+    "text": "Atlanta",
+    "value": "Atlanta"
+  },
+  {
+    "text": "Atlantic City",
+    "value": "Atlantic City"
+  },
+  {
+    "text": "Attleboro",
+    "value": "Attleboro"
+  },
+  {
+    "text": "Auburn",
+    "value": "Auburn"
+  },
+  {
+    "text": "Augusta-Richmond County",
+    "value": "Augusta-Richmond County"
+  },
+  {
+    "text": "Aurora",
+    "value": "Aurora"
+  },
+  {
+    "text": "Austin",
+    "value": "Austin"
+  },
+  {
+    "text": "Aventura",
+    "value": "Aventura"
+  },
+  {
+    "text": "Avondale",
+    "value": "Avondale"
+  },
+  {
+    "text": "Azusa",
+    "value": "Azusa"
+  },
+  {
+    "text": "Bakersfield",
+    "value": "Bakersfield"
+  },
+  {
+    "text": "Baldwin Park",
+    "value": "Baldwin Park"
+  },
+  {
+    "text": "Baltimore",
+    "value": "Baltimore"
+  },
+  {
+    "text": "Barnstable Town",
+    "value": "Barnstable Town"
+  },
+  {
+    "text": "Bartlett",
+    "value": "Bartlett"
+  },
+  {
+    "text": "Baton Rouge",
+    "value": "Baton Rouge"
+  },
+  {
+    "text": "Battle Creek",
+    "value": "Battle Creek"
+  },
+  {
+    "text": "Bayonne",
+    "value": "Bayonne"
+  },
+  {
+    "text": "Baytown",
+    "value": "Baytown"
+  },
+  {
+    "text": "Beaumont",
+    "value": "Beaumont"
+  },
+  {
+    "text": "Beavercreek",
+    "value": "Beavercreek"
+  },
+  {
+    "text": "Beaverton",
+    "value": "Beaverton"
+  },
+  {
+    "text": "Bedford",
+    "value": "Bedford"
+  },
+  {
+    "text": "Bell Gardens",
+    "value": "Bell Gardens"
+  },
+  {
+    "text": "Belleville",
+    "value": "Belleville"
+  },
+  {
+    "text": "Bellevue",
+    "value": "Bellevue"
+  },
+  {
+    "text": "Bellflower",
+    "value": "Bellflower"
+  },
+  {
+    "text": "Bellingham",
+    "value": "Bellingham"
+  },
+  {
+    "text": "Beloit",
+    "value": "Beloit"
+  },
+  {
+    "text": "Bend",
+    "value": "Bend"
+  },
+  {
+    "text": "Bentonville",
+    "value": "Bentonville"
+  },
+  {
+    "text": "Berkeley",
+    "value": "Berkeley"
+  },
+  {
+    "text": "Berwyn",
+    "value": "Berwyn"
+  },
+  {
+    "text": "Bethlehem",
+    "value": "Bethlehem"
+  },
+  {
+    "text": "Beverly",
+    "value": "Beverly"
+  },
+  {
+    "text": "Billings",
+    "value": "Billings"
+  },
+  {
+    "text": "Biloxi",
+    "value": "Biloxi"
+  },
+  {
+    "text": "Binghamton",
+    "value": "Binghamton"
+  },
+  {
+    "text": "Birmingham",
+    "value": "Birmingham"
+  },
+  {
+    "text": "Bismarck",
+    "value": "Bismarck"
+  },
+  {
+    "text": "Blacksburg",
+    "value": "Blacksburg"
+  },
+  {
+    "text": "Blaine",
+    "value": "Blaine"
+  },
+  {
+    "text": "Bloomington",
+    "value": "Bloomington"
+  },
+  {
+    "text": "Blue Springs",
+    "value": "Blue Springs"
+  },
+  {
+    "text": "Boca Raton",
+    "value": "Boca Raton"
+  },
+  {
+    "text": "Boise City",
+    "value": "Boise City"
+  },
+  {
+    "text": "Bolingbrook",
+    "value": "Bolingbrook"
+  },
+  {
+    "text": "Bonita Springs",
+    "value": "Bonita Springs"
+  },
+  {
+    "text": "Bossier City",
+    "value": "Bossier City"
+  },
+  {
+    "text": "Boston",
+    "value": "Boston"
+  },
+  {
+    "text": "Boulder",
+    "value": "Boulder"
+  },
+  {
+    "text": "Bountiful",
+    "value": "Bountiful"
+  },
+  {
+    "text": "Bowie",
+    "value": "Bowie"
+  },
+  {
+    "text": "Bowling Green",
+    "value": "Bowling Green"
+  },
+  {
+    "text": "Boynton Beach",
+    "value": "Boynton Beach"
+  },
+  {
+    "text": "Bozeman",
+    "value": "Bozeman"
+  },
+  {
+    "text": "Bradenton",
+    "value": "Bradenton"
+  },
+  {
+    "text": "Brea",
+    "value": "Brea"
+  },
+  {
+    "text": "Bremerton",
+    "value": "Bremerton"
+  },
+  {
+    "text": "Brentwood",
+    "value": "Brentwood"
+  },
+  {
+    "text": "Bridgeport",
+    "value": "Bridgeport"
+  },
+  {
+    "text": "Bristol",
+    "value": "Bristol"
+  },
+  {
+    "text": "Brockton",
+    "value": "Brockton"
+  },
+  {
+    "text": "Broken Arrow",
+    "value": "Broken Arrow"
+  },
+  {
+    "text": "Brookfield",
+    "value": "Brookfield"
+  },
+  {
+    "text": "Brookhaven",
+    "value": "Brookhaven"
+  },
+  {
+    "text": "Brooklyn Park",
+    "value": "Brooklyn Park"
+  },
+  {
+    "text": "Broomfield",
+    "value": "Broomfield"
+  },
+  {
+    "text": "Brownsville",
+    "value": "Brownsville"
+  },
+  {
+    "text": "Bryan",
+    "value": "Bryan"
+  },
+  {
+    "text": "Buckeye",
+    "value": "Buckeye"
+  },
+  {
+    "text": "Buena Park",
+    "value": "Buena Park"
+  },
+  {
+    "text": "Buffalo",
+    "value": "Buffalo"
+  },
+  {
+    "text": "Buffalo Grove",
+    "value": "Buffalo Grove"
+  },
+  {
+    "text": "Bullhead City",
+    "value": "Bullhead City"
+  },
+  {
+    "text": "Burbank",
+    "value": "Burbank"
+  },
+  {
+    "text": "Burien",
+    "value": "Burien"
+  },
+  {
+    "text": "Burleson",
+    "value": "Burleson"
+  },
+  {
+    "text": "Burlington",
+    "value": "Burlington"
+  },
+  {
+    "text": "Burnsville",
+    "value": "Burnsville"
+  },
+  {
+    "text": "Caldwell",
+    "value": "Caldwell"
+  },
+  {
+    "text": "Calexico",
+    "value": "Calexico"
+  },
+  {
+    "text": "Calumet City",
+    "value": "Calumet City"
+  },
+  {
+    "text": "Camarillo",
+    "value": "Camarillo"
+  },
+  {
+    "text": "Cambridge",
+    "value": "Cambridge"
+  },
+  {
+    "text": "Camden",
+    "value": "Camden"
+  },
+  {
+    "text": "Campbell",
+    "value": "Campbell"
+  },
+  {
+    "text": "Canton",
+    "value": "Canton"
+  },
+  {
+    "text": "Cape Coral",
+    "value": "Cape Coral"
+  },
+  {
+    "text": "Cape Girardeau",
+    "value": "Cape Girardeau"
+  },
+  {
+    "text": "Carlsbad",
+    "value": "Carlsbad"
+  },
+  {
+    "text": "Carmel",
+    "value": "Carmel"
+  },
+  {
+    "text": "Carol Stream",
+    "value": "Carol Stream"
+  },
+  {
+    "text": "Carpentersville",
+    "value": "Carpentersville"
+  },
+  {
+    "text": "Carrollton",
+    "value": "Carrollton"
+  },
+  {
+    "text": "Carson",
+    "value": "Carson"
+  },
+  {
+    "text": "Carson City",
+    "value": "Carson City"
+  },
+  {
+    "text": "Cary",
+    "value": "Cary"
+  },
+  {
+    "text": "Casa Grande",
+    "value": "Casa Grande"
+  },
+  {
+    "text": "Casper",
+    "value": "Casper"
+  },
+  {
+    "text": "Castle Rock",
+    "value": "Castle Rock"
+  },
+  {
+    "text": "Cathedral City",
+    "value": "Cathedral City"
+  },
+  {
+    "text": "Cedar Falls",
+    "value": "Cedar Falls"
+  },
+  {
+    "text": "Cedar Hill",
+    "value": "Cedar Hill"
+  },
+  {
+    "text": "Cedar Park",
+    "value": "Cedar Park"
+  },
+  {
+    "text": "Cedar Rapids",
+    "value": "Cedar Rapids"
+  },
+  {
+    "text": "Centennial",
+    "value": "Centennial"
+  },
+  {
+    "text": "Ceres",
+    "value": "Ceres"
+  },
+  {
+    "text": "Cerritos",
+    "value": "Cerritos"
+  },
+  {
+    "text": "Champaign",
+    "value": "Champaign"
+  },
+  {
+    "text": "Chandler",
+    "value": "Chandler"
+  },
+  {
+    "text": "Chapel Hill",
+    "value": "Chapel Hill"
+  },
+  {
+    "text": "Charleston",
+    "value": "Charleston"
+  },
+  {
+    "text": "Charlotte",
+    "value": "Charlotte"
+  },
+  {
+    "text": "Charlottesville",
+    "value": "Charlottesville"
+  },
+  {
+    "text": "Chattanooga",
+    "value": "Chattanooga"
+  },
+  {
+    "text": "Chelsea",
+    "value": "Chelsea"
+  },
+  {
+    "text": "Chesapeake",
+    "value": "Chesapeake"
+  },
+  {
+    "text": "Chesterfield",
+    "value": "Chesterfield"
+  },
+  {
+    "text": "Cheyenne",
+    "value": "Cheyenne"
+  },
+  {
+    "text": "Chicago",
+    "value": "Chicago"
+  },
+  {
+    "text": "Chico",
+    "value": "Chico"
+  },
+  {
+    "text": "Chicopee",
+    "value": "Chicopee"
+  },
+  {
+    "text": "Chino",
+    "value": "Chino"
+  },
+  {
+    "text": "Chino Hills",
+    "value": "Chino Hills"
+  },
+  {
+    "text": "Chula Vista",
+    "value": "Chula Vista"
+  },
+  {
+    "text": "Cicero",
+    "value": "Cicero"
+  },
+  {
+    "text": "Cincinnati",
+    "value": "Cincinnati"
+  },
+  {
+    "text": "Citrus Heights",
+    "value": "Citrus Heights"
+  },
+  {
+    "text": "Clarksville",
+    "value": "Clarksville"
+  },
+  {
+    "text": "Clearwater",
+    "value": "Clearwater"
+  },
+  {
+    "text": "Cleveland",
+    "value": "Cleveland"
+  },
+  {
+    "text": "Cleveland Heights",
+    "value": "Cleveland Heights"
+  },
+  {
+    "text": "Clifton",
+    "value": "Clifton"
+  },
+  {
+    "text": "Clovis",
+    "value": "Clovis"
+  },
+  {
+    "text": "Coachella",
+    "value": "Coachella"
+  },
+  {
+    "text": "Coconut Creek",
+    "value": "Coconut Creek"
+  },
+  {
+    "text": "Coeur d'Alene",
+    "value": "Coeur d'Alene"
+  },
+  {
+    "text": "College Station",
+    "value": "College Station"
+  },
+  {
+    "text": "Collierville",
+    "value": "Collierville"
+  },
+  {
+    "text": "Colorado Springs",
+    "value": "Colorado Springs"
+  },
+  {
+    "text": "Colton",
+    "value": "Colton"
+  },
+  {
+    "text": "Columbia",
+    "value": "Columbia"
+  },
+  {
+    "text": "Columbus",
+    "value": "Columbus"
+  },
+  {
+    "text": "Commerce City",
+    "value": "Commerce City"
+  },
+  {
+    "text": "Compton",
+    "value": "Compton"
+  },
+  {
+    "text": "Concord",
+    "value": "Concord"
+  },
+  {
+    "text": "Conroe",
+    "value": "Conroe"
+  },
+  {
+    "text": "Conway",
+    "value": "Conway"
+  },
+  {
+    "text": "Coon Rapids",
+    "value": "Coon Rapids"
+  },
+  {
+    "text": "Coppell",
+    "value": "Coppell"
+  },
+  {
+    "text": "Coral Gables",
+    "value": "Coral Gables"
+  },
+  {
+    "text": "Coral Springs",
+    "value": "Coral Springs"
+  },
+  {
+    "text": "Corona",
+    "value": "Corona"
+  },
+  {
+    "text": "Corpus Christi",
+    "value": "Corpus Christi"
+  },
+  {
+    "text": "Corvallis",
+    "value": "Corvallis"
+  },
+  {
+    "text": "Costa Mesa",
+    "value": "Costa Mesa"
+  },
+  {
+    "text": "Council Bluffs",
+    "value": "Council Bluffs"
+  },
+  {
+    "text": "Covina",
+    "value": "Covina"
+  },
+  {
+    "text": "Covington",
+    "value": "Covington"
+  },
+  {
+    "text": "Cranston",
+    "value": "Cranston"
+  },
+  {
+    "text": "Crystal Lake",
+    "value": "Crystal Lake"
+  },
+  {
+    "text": "Culver City",
+    "value": "Culver City"
+  },
+  {
+    "text": "Cupertino",
+    "value": "Cupertino"
+  },
+  {
+    "text": "Cutler Bay",
+    "value": "Cutler Bay"
+  },
+  {
+    "text": "Cuyahoga Falls",
+    "value": "Cuyahoga Falls"
+  },
+  {
+    "text": "Cypress",
+    "value": "Cypress"
+  },
+  {
+    "text": "Dallas",
+    "value": "Dallas"
+  },
+  {
+    "text": "Daly City",
+    "value": "Daly City"
+  },
+  {
+    "text": "Danbury",
+    "value": "Danbury"
+  },
+  {
+    "text": "Danville",
+    "value": "Danville"
+  },
+  {
+    "text": "Davenport",
+    "value": "Davenport"
+  },
+  {
+    "text": "Davie",
+    "value": "Davie"
+  },
+  {
+    "text": "Davis",
+    "value": "Davis"
+  },
+  {
+    "text": "Dayton",
+    "value": "Dayton"
+  },
+  {
+    "text": "Daytona Beach",
+    "value": "Daytona Beach"
+  },
+  {
+    "text": "DeKalb",
+    "value": "DeKalb"
+  },
+  {
+    "text": "DeSoto",
+    "value": "DeSoto"
+  },
+  {
+    "text": "Dearborn",
+    "value": "Dearborn"
+  },
+  {
+    "text": "Dearborn Heights",
+    "value": "Dearborn Heights"
+  },
+  {
+    "text": "Decatur",
+    "value": "Decatur"
+  },
+  {
+    "text": "Deerfield Beach",
+    "value": "Deerfield Beach"
+  },
+  {
+    "text": "Delano",
+    "value": "Delano"
+  },
+  {
+    "text": "Delray Beach",
+    "value": "Delray Beach"
+  },
+  {
+    "text": "Deltona",
+    "value": "Deltona"
+  },
+  {
+    "text": "Denton",
+    "value": "Denton"
+  },
+  {
+    "text": "Denver",
+    "value": "Denver"
+  },
+  {
+    "text": "Des Moines",
+    "value": "Des Moines"
+  },
+  {
+    "text": "Des Plaines",
+    "value": "Des Plaines"
+  },
+  {
+    "text": "Detroit",
+    "value": "Detroit"
+  },
+  {
+    "text": "Diamond Bar",
+    "value": "Diamond Bar"
+  },
+  {
+    "text": "Doral",
+    "value": "Doral"
+  },
+  {
+    "text": "Dothan",
+    "value": "Dothan"
+  },
+  {
+    "text": "Dover",
+    "value": "Dover"
+  },
+  {
+    "text": "Downers Grove",
+    "value": "Downers Grove"
+  },
+  {
+    "text": "Downey",
+    "value": "Downey"
+  },
+  {
+    "text": "Draper",
+    "value": "Draper"
+  },
+  {
+    "text": "Dublin",
+    "value": "Dublin"
+  },
+  {
+    "text": "Dubuque",
+    "value": "Dubuque"
+  },
+  {
+    "text": "Duluth",
+    "value": "Duluth"
+  },
+  {
+    "text": "Duncanville",
+    "value": "Duncanville"
+  },
+  {
+    "text": "Dunwoody",
+    "value": "Dunwoody"
+  },
+  {
+    "text": "Durham",
+    "value": "Durham"
+  },
+  {
+    "text": "Eagan",
+    "value": "Eagan"
+  },
+  {
+    "text": "East Lansing",
+    "value": "East Lansing"
+  },
+  {
+    "text": "East Orange",
+    "value": "East Orange"
+  },
+  {
+    "text": "East Providence",
+    "value": "East Providence"
+  },
+  {
+    "text": "Eastvale",
+    "value": "Eastvale"
+  },
+  {
+    "text": "Eau Claire",
+    "value": "Eau Claire"
+  },
+  {
+    "text": "Eden Prairie",
+    "value": "Eden Prairie"
+  },
+  {
+    "text": "Edina",
+    "value": "Edina"
+  },
+  {
+    "text": "Edinburg",
+    "value": "Edinburg"
+  },
+  {
+    "text": "Edmond",
+    "value": "Edmond"
+  },
+  {
+    "text": "Edmonds",
+    "value": "Edmonds"
+  },
+  {
+    "text": "El Cajon",
+    "value": "El Cajon"
+  },
+  {
+    "text": "El Centro",
+    "value": "El Centro"
+  },
+  {
+    "text": "El Monte",
+    "value": "El Monte"
+  },
+  {
+    "text": "El Paso",
+    "value": "El Paso"
+  },
+  {
+    "text": "Elgin",
+    "value": "Elgin"
+  },
+  {
+    "text": "Elizabeth",
+    "value": "Elizabeth"
+  },
+  {
+    "text": "Elk Grove",
+    "value": "Elk Grove"
+  },
+  {
+    "text": "Elkhart",
+    "value": "Elkhart"
+  },
+  {
+    "text": "Elmhurst",
+    "value": "Elmhurst"
+  },
+  {
+    "text": "Elyria",
+    "value": "Elyria"
+  },
+  {
+    "text": "Encinitas",
+    "value": "Encinitas"
+  },
+  {
+    "text": "Enid",
+    "value": "Enid"
+  },
+  {
+    "text": "Erie",
+    "value": "Erie"
+  },
+  {
+    "text": "Escondido",
+    "value": "Escondido"
+  },
+  {
+    "text": "Euclid",
+    "value": "Euclid"
+  },
+  {
+    "text": "Eugene",
+    "value": "Eugene"
+  },
+  {
+    "text": "Euless",
+    "value": "Euless"
+  },
+  {
+    "text": "Evanston",
+    "value": "Evanston"
+  },
+  {
+    "text": "Evansville",
+    "value": "Evansville"
+  },
+  {
+    "text": "Everett",
+    "value": "Everett"
+  },
+  {
+    "text": "Fairfield",
+    "value": "Fairfield"
+  },
+  {
+    "text": "Fall River",
+    "value": "Fall River"
+  },
+  {
+    "text": "Fargo",
+    "value": "Fargo"
+  },
+  {
+    "text": "Farmington",
+    "value": "Farmington"
+  },
+  {
+    "text": "Farmington Hills",
+    "value": "Farmington Hills"
+  },
+  {
+    "text": "Fayetteville",
+    "value": "Fayetteville"
+  },
+  {
+    "text": "Federal Way",
+    "value": "Federal Way"
+  },
+  {
+    "text": "Findlay",
+    "value": "Findlay"
+  },
+  {
+    "text": "Fishers",
+    "value": "Fishers"
+  },
+  {
+    "text": "Fitchburg",
+    "value": "Fitchburg"
+  },
+  {
+    "text": "Flagstaff",
+    "value": "Flagstaff"
+  },
+  {
+    "text": "Flint",
+    "value": "Flint"
+  },
+  {
+    "text": "Florence",
+    "value": "Florence"
+  },
+  {
+    "text": "Florissant",
+    "value": "Florissant"
+  },
+  {
+    "text": "Flower Mound",
+    "value": "Flower Mound"
+  },
+  {
+    "text": "Folsom",
+    "value": "Folsom"
+  },
+  {
+    "text": "Fond du Lac",
+    "value": "Fond du Lac"
+  },
+  {
+    "text": "Fontana",
+    "value": "Fontana"
+  },
+  {
+    "text": "Fort Collins",
+    "value": "Fort Collins"
+  },
+  {
+    "text": "Fort Lauderdale",
+    "value": "Fort Lauderdale"
+  },
+  {
+    "text": "Fort Myers",
+    "value": "Fort Myers"
+  },
+  {
+    "text": "Fort Pierce",
+    "value": "Fort Pierce"
+  },
+  {
+    "text": "Fort Smith",
+    "value": "Fort Smith"
+  },
+  {
+    "text": "Fort Wayne",
+    "value": "Fort Wayne"
+  },
+  {
+    "text": "Fort Worth",
+    "value": "Fort Worth"
+  },
+  {
+    "text": "Fountain Valley",
+    "value": "Fountain Valley"
+  },
+  {
+    "text": "Franklin",
+    "value": "Franklin"
+  },
+  {
+    "text": "Frederick",
+    "value": "Frederick"
+  },
+  {
+    "text": "Freeport",
+    "value": "Freeport"
+  },
+  {
+    "text": "Fremont",
+    "value": "Fremont"
+  },
+  {
+    "text": "Fresno",
+    "value": "Fresno"
+  },
+  {
+    "text": "Friendswood",
+    "value": "Friendswood"
+  },
+  {
+    "text": "Frisco",
+    "value": "Frisco"
+  },
+  {
+    "text": "Fullerton",
+    "value": "Fullerton"
+  },
+  {
+    "text": "Gainesville",
+    "value": "Gainesville"
+  },
+  {
+    "text": "Gaithersburg",
+    "value": "Gaithersburg"
+  },
+  {
+    "text": "Galveston",
+    "value": "Galveston"
+  },
+  {
+    "text": "Garden Grove",
+    "value": "Garden Grove"
+  },
+  {
+    "text": "Gardena",
+    "value": "Gardena"
+  },
+  {
+    "text": "Garland",
+    "value": "Garland"
+  },
+  {
+    "text": "Gary",
+    "value": "Gary"
+  },
+  {
+    "text": "Gastonia",
+    "value": "Gastonia"
+  },
+  {
+    "text": "Georgetown",
+    "value": "Georgetown"
+  },
+  {
+    "text": "Germantown",
+    "value": "Germantown"
+  },
+  {
+    "text": "Gilbert",
+    "value": "Gilbert"
+  },
+  {
+    "text": "Gilroy",
+    "value": "Gilroy"
+  },
+  {
+    "text": "Glendale",
+    "value": "Glendale"
+  },
+  {
+    "text": "Glendora",
+    "value": "Glendora"
+  },
+  {
+    "text": "Glenview",
+    "value": "Glenview"
+  },
+  {
+    "text": "Goodyear",
+    "value": "Goodyear"
+  },
+  {
+    "text": "Goose Creek",
+    "value": "Goose Creek"
+  },
+  {
+    "text": "Grand Forks",
+    "value": "Grand Forks"
+  },
+  {
+    "text": "Grand Island",
+    "value": "Grand Island"
+  },
+  {
+    "text": "Grand Junction",
+    "value": "Grand Junction"
+  },
+  {
+    "text": "Grand Prairie",
+    "value": "Grand Prairie"
+  },
+  {
+    "text": "Grand Rapids",
+    "value": "Grand Rapids"
+  },
+  {
+    "text": "Grapevine",
+    "value": "Grapevine"
+  },
+  {
+    "text": "Great Falls",
+    "value": "Great Falls"
+  },
+  {
+    "text": "Greeley",
+    "value": "Greeley"
+  },
+  {
+    "text": "Green Bay",
+    "value": "Green Bay"
+  },
+  {
+    "text": "Greenacres",
+    "value": "Greenacres"
+  },
+  {
+    "text": "Greenfield",
+    "value": "Greenfield"
+  },
+  {
+    "text": "Greensboro",
+    "value": "Greensboro"
+  },
+  {
+    "text": "Greenville",
+    "value": "Greenville"
+  },
+  {
+    "text": "Greenwood",
+    "value": "Greenwood"
+  },
+  {
+    "text": "Gresham",
+    "value": "Gresham"
+  },
+  {
+    "text": "Grove City",
+    "value": "Grove City"
+  },
+  {
+    "text": "Gulfport",
+    "value": "Gulfport"
+  },
+  {
+    "text": "Hackensack",
+    "value": "Hackensack"
+  },
+  {
+    "text": "Hagerstown",
+    "value": "Hagerstown"
+  },
+  {
+    "text": "Hallandale Beach",
+    "value": "Hallandale Beach"
+  },
+  {
+    "text": "Haltom City",
+    "value": "Haltom City"
+  },
+  {
+    "text": "Hamilton",
+    "value": "Hamilton"
+  },
+  {
+    "text": "Hammond",
+    "value": "Hammond"
+  },
+  {
+    "text": "Hampton",
+    "value": "Hampton"
+  },
+  {
+    "text": "Hanford",
+    "value": "Hanford"
+  },
+  {
+    "text": "Hanover Park",
+    "value": "Hanover Park"
+  },
+  {
+    "text": "Harlingen",
+    "value": "Harlingen"
+  },
+  {
+    "text": "Harrisburg",
+    "value": "Harrisburg"
+  },
+  {
+    "text": "Harrisonburg",
+    "value": "Harrisonburg"
+  },
+  {
+    "text": "Hartford",
+    "value": "Hartford"
+  },
+  {
+    "text": "Hattiesburg",
+    "value": "Hattiesburg"
+  },
+  {
+    "text": "Haverhill",
+    "value": "Haverhill"
+  },
+  {
+    "text": "Hawthorne",
+    "value": "Hawthorne"
+  },
+  {
+    "text": "Hayward",
+    "value": "Hayward"
+  },
+  {
+    "text": "Hemet",
+    "value": "Hemet"
+  },
+  {
+    "text": "Hempstead",
+    "value": "Hempstead"
+  },
+  {
+    "text": "Henderson",
+    "value": "Henderson"
+  },
+  {
+    "text": "Hendersonville",
+    "value": "Hendersonville"
+  },
+  {
+    "text": "Hesperia",
+    "value": "Hesperia"
+  },
+  {
+    "text": "Hialeah",
+    "value": "Hialeah"
+  },
+  {
+    "text": "Hickory",
+    "value": "Hickory"
+  },
+  {
+    "text": "High Point",
+    "value": "High Point"
+  },
+  {
+    "text": "Highland",
+    "value": "Highland"
+  },
+  {
+    "text": "Hillsboro",
+    "value": "Hillsboro"
+  },
+  {
+    "text": "Hilton Head Island",
+    "value": "Hilton Head Island"
+  },
+  {
+    "text": "Hoboken",
+    "value": "Hoboken"
+  },
+  {
+    "text": "Hoffman Estates",
+    "value": "Hoffman Estates"
+  },
+  {
+    "text": "Hollywood",
+    "value": "Hollywood"
+  },
+  {
+    "text": "Holyoke",
+    "value": "Holyoke"
+  },
+  {
+    "text": "Homestead",
+    "value": "Homestead"
+  },
+  {
+    "text": "Honolulu",
+    "value": "Honolulu"
+  },
+  {
+    "text": "Hoover",
+    "value": "Hoover"
+  },
+  {
+    "text": "Houston",
+    "value": "Houston"
+  },
+  {
+    "text": "Huber Heights",
+    "value": "Huber Heights"
+  },
+  {
+    "text": "Huntersville",
+    "value": "Huntersville"
+  },
+  {
+    "text": "Huntington",
+    "value": "Huntington"
+  },
+  {
+    "text": "Huntington Beach",
+    "value": "Huntington Beach"
+  },
+  {
+    "text": "Huntington Park",
+    "value": "Huntington Park"
+  },
+  {
+    "text": "Huntsville",
+    "value": "Huntsville"
+  },
+  {
+    "text": "Hurst",
+    "value": "Hurst"
+  },
+  {
+    "text": "Hutchinson",
+    "value": "Hutchinson"
+  },
+  {
+    "text": "Idaho Falls",
+    "value": "Idaho Falls"
+  },
+  {
+    "text": "Independence",
+    "value": "Independence"
+  },
+  {
+    "text": "Indianapolis",
+    "value": "Indianapolis"
+  },
+  {
+    "text": "Indio",
+    "value": "Indio"
+  },
+  {
+    "text": "Inglewood",
+    "value": "Inglewood"
+  },
+  {
+    "text": "Iowa City",
+    "value": "Iowa City"
+  },
+  {
+    "text": "Irvine",
+    "value": "Irvine"
+  },
+  {
+    "text": "Irving",
+    "value": "Irving"
+  },
+  {
+    "text": "Jackson",
+    "value": "Jackson"
+  },
+  {
+    "text": "Jacksonville",
+    "value": "Jacksonville"
+  },
+  {
+    "text": "Janesville",
+    "value": "Janesville"
+  },
+  {
+    "text": "Jefferson City",
+    "value": "Jefferson City"
+  },
+  {
+    "text": "Jeffersonville",
+    "value": "Jeffersonville"
+  },
+  {
+    "text": "Jersey City",
+    "value": "Jersey City"
+  },
+  {
+    "text": "Johns Creek",
+    "value": "Johns Creek"
+  },
+  {
+    "text": "Johnson City",
+    "value": "Johnson City"
+  },
+  {
+    "text": "Joliet",
+    "value": "Joliet"
+  },
+  {
+    "text": "Jonesboro",
+    "value": "Jonesboro"
+  },
+  {
+    "text": "Joplin",
+    "value": "Joplin"
+  },
+  {
+    "text": "Jupiter",
+    "value": "Jupiter"
+  },
+  {
+    "text": "Jurupa Valley",
+    "value": "Jurupa Valley"
+  },
+  {
+    "text": "Kalamazoo",
+    "value": "Kalamazoo"
+  },
+  {
+    "text": "Kannapolis",
+    "value": "Kannapolis"
+  },
+  {
+    "text": "Kansas City",
+    "value": "Kansas City"
+  },
+  {
+    "text": "Kearny",
+    "value": "Kearny"
+  },
+  {
+    "text": "Keizer",
+    "value": "Keizer"
+  },
+  {
+    "text": "Keller",
+    "value": "Keller"
+  },
+  {
+    "text": "Kenner",
+    "value": "Kenner"
+  },
+  {
+    "text": "Kennewick",
+    "value": "Kennewick"
+  },
+  {
+    "text": "Kenosha",
+    "value": "Kenosha"
+  },
+  {
+    "text": "Kent",
+    "value": "Kent"
+  },
+  {
+    "text": "Kentwood",
+    "value": "Kentwood"
+  },
+  {
+    "text": "Kettering",
+    "value": "Kettering"
+  },
+  {
+    "text": "Killeen",
+    "value": "Killeen"
+  },
+  {
+    "text": "Kingsport",
+    "value": "Kingsport"
+  },
+  {
+    "text": "Kirkland",
+    "value": "Kirkland"
+  },
+  {
+    "text": "Kissimmee",
+    "value": "Kissimmee"
+  },
+  {
+    "text": "Knoxville",
+    "value": "Knoxville"
+  },
+  {
+    "text": "Kokomo",
+    "value": "Kokomo"
+  },
+  {
+    "text": "La Crosse",
+    "value": "La Crosse"
+  },
+  {
+    "text": "La Habra",
+    "value": "La Habra"
+  },
+  {
+    "text": "La Mesa",
+    "value": "La Mesa"
+  },
+  {
+    "text": "La Mirada",
+    "value": "La Mirada"
+  },
+  {
+    "text": "La Puente",
+    "value": "La Puente"
+  },
+  {
+    "text": "La Quinta",
+    "value": "La Quinta"
+  },
+  {
+    "text": "Lacey",
+    "value": "Lacey"
+  },
+  {
+    "text": "Lafayette",
+    "value": "Lafayette"
+  },
+  {
+    "text": "Laguna Niguel",
+    "value": "Laguna Niguel"
+  },
+  {
+    "text": "Lake Charles",
+    "value": "Lake Charles"
+  },
+  {
+    "text": "Lake Elsinore",
+    "value": "Lake Elsinore"
+  },
+  {
+    "text": "Lake Forest",
+    "value": "Lake Forest"
+  },
+  {
+    "text": "Lake Havasu City",
+    "value": "Lake Havasu City"
+  },
+  {
+    "text": "Lake Oswego",
+    "value": "Lake Oswego"
+  },
+  {
+    "text": "Lakeland",
+    "value": "Lakeland"
+  },
+  {
+    "text": "Lakeville",
+    "value": "Lakeville"
+  },
+  {
+    "text": "Lakewood",
+    "value": "Lakewood"
+  },
+  {
+    "text": "Lancaster",
+    "value": "Lancaster"
+  },
+  {
+    "text": "Lansing",
+    "value": "Lansing"
+  },
+  {
+    "text": "Laredo",
+    "value": "Laredo"
+  },
+  {
+    "text": "Largo",
+    "value": "Largo"
+  },
+  {
+    "text": "Las Cruces",
+    "value": "Las Cruces"
+  },
+  {
+    "text": "Las Vegas",
+    "value": "Las Vegas"
+  },
+  {
+    "text": "Lauderhill",
+    "value": "Lauderhill"
+  },
+  {
+    "text": "Lawrence",
+    "value": "Lawrence"
+  },
+  {
+    "text": "Lawton",
+    "value": "Lawton"
+  },
+  {
+    "text": "Layton",
+    "value": "Layton"
+  },
+  {
+    "text": "League City",
+    "value": "League City"
+  },
+  {
+    "text": "Lee's Summit",
+    "value": "Lee's Summit"
+  },
+  {
+    "text": "Leesburg",
+    "value": "Leesburg"
+  },
+  {
+    "text": "Lehi",
+    "value": "Lehi"
+  },
+  {
+    "text": "Lenexa",
+    "value": "Lenexa"
+  },
+  {
+    "text": "Leominster",
+    "value": "Leominster"
+  },
+  {
+    "text": "Lewisville",
+    "value": "Lewisville"
+  },
+  {
+    "text": "Lexington-Fayette",
+    "value": "Lexington-Fayette"
+  },
+  {
+    "text": "Lima",
+    "value": "Lima"
+  },
+  {
+    "text": "Lincoln",
+    "value": "Lincoln"
+  },
+  {
+    "text": "Lincoln Park",
+    "value": "Lincoln Park"
+  },
+  {
+    "text": "Linden",
+    "value": "Linden"
+  },
+  {
+    "text": "Little Rock",
+    "value": "Little Rock"
+  },
+  {
+    "text": "Littleton",
+    "value": "Littleton"
+  },
+  {
+    "text": "Livermore",
+    "value": "Livermore"
+  },
+  {
+    "text": "Livonia",
+    "value": "Livonia"
+  },
+  {
+    "text": "Lodi",
+    "value": "Lodi"
+  },
+  {
+    "text": "Logan",
+    "value": "Logan"
+  },
+  {
+    "text": "Lombard",
+    "value": "Lombard"
+  },
+  {
+    "text": "Lompoc",
+    "value": "Lompoc"
+  },
+  {
+    "text": "Long Beach",
+    "value": "Long Beach"
+  },
+  {
+    "text": "Longmont",
+    "value": "Longmont"
+  },
+  {
+    "text": "Longview",
+    "value": "Longview"
+  },
+  {
+    "text": "Lorain",
+    "value": "Lorain"
+  },
+  {
+    "text": "Los Angeles",
+    "value": "Los Angeles"
+  },
+  {
+    "text": "Louisville/Jefferson County",
+    "value": "Louisville/Jefferson County"
+  },
+  {
+    "text": "Loveland",
+    "value": "Loveland"
+  },
+  {
+    "text": "Lowell",
+    "value": "Lowell"
+  },
+  {
+    "text": "Lubbock",
+    "value": "Lubbock"
+  },
+  {
+    "text": "Lynchburg",
+    "value": "Lynchburg"
+  },
+  {
+    "text": "Lynn",
+    "value": "Lynn"
+  },
+  {
+    "text": "Lynwood",
+    "value": "Lynwood"
+  },
+  {
+    "text": "Macon",
+    "value": "Macon"
+  },
+  {
+    "text": "Madera",
+    "value": "Madera"
+  },
+  {
+    "text": "Madison",
+    "value": "Madison"
+  },
+  {
+    "text": "Malden",
+    "value": "Malden"
+  },
+  {
+    "text": "Manassas",
+    "value": "Manassas"
+  },
+  {
+    "text": "Manchester",
+    "value": "Manchester"
+  },
+  {
+    "text": "Manhattan",
+    "value": "Manhattan"
+  },
+  {
+    "text": "Mankato",
+    "value": "Mankato"
+  },
+  {
+    "text": "Mansfield",
+    "value": "Mansfield"
+  },
+  {
+    "text": "Manteca",
+    "value": "Manteca"
+  },
+  {
+    "text": "Maple Grove",
+    "value": "Maple Grove"
+  },
+  {
+    "text": "Maplewood",
+    "value": "Maplewood"
+  },
+  {
+    "text": "Marana",
+    "value": "Marana"
+  },
+  {
+    "text": "Margate",
+    "value": "Margate"
+  },
+  {
+    "text": "Maricopa",
+    "value": "Maricopa"
+  },
+  {
+    "text": "Marietta",
+    "value": "Marietta"
+  },
+  {
+    "text": "Marlborough",
+    "value": "Marlborough"
+  },
+  {
+    "text": "Martinez",
+    "value": "Martinez"
+  },
+  {
+    "text": "Marysville",
+    "value": "Marysville"
+  },
+  {
+    "text": "McAllen",
+    "value": "McAllen"
+  },
+  {
+    "text": "McKinney",
+    "value": "McKinney"
+  },
+  {
+    "text": "Medford",
+    "value": "Medford"
+  },
+  {
+    "text": "Melbourne",
+    "value": "Melbourne"
+  },
+  {
+    "text": "Memphis",
+    "value": "Memphis"
+  },
+  {
+    "text": "Menifee",
+    "value": "Menifee"
+  },
+  {
+    "text": "Mentor",
+    "value": "Mentor"
+  },
+  {
+    "text": "Merced",
+    "value": "Merced"
+  },
+  {
+    "text": "Meriden",
+    "value": "Meriden"
+  },
+  {
+    "text": "Meridian",
+    "value": "Meridian"
+  },
+  {
+    "text": "Mesa",
+    "value": "Mesa"
+  },
+  {
+    "text": "Mesquite",
+    "value": "Mesquite"
+  },
+  {
+    "text": "Methuen",
+    "value": "Methuen"
+  },
+  {
+    "text": "Miami",
+    "value": "Miami"
+  },
+  {
+    "text": "Miami Beach",
+    "value": "Miami Beach"
+  },
+  {
+    "text": "Miami Gardens",
+    "value": "Miami Gardens"
+  },
+  {
+    "text": "Middletown",
+    "value": "Middletown"
+  },
+  {
+    "text": "Midland",
+    "value": "Midland"
+  },
+  {
+    "text": "Midwest City",
+    "value": "Midwest City"
+  },
+  {
+    "text": "Milford",
+    "value": "Milford"
+  },
+  {
+    "text": "Milpitas",
+    "value": "Milpitas"
+  },
+  {
+    "text": "Milwaukee",
+    "value": "Milwaukee"
+  },
+  {
+    "text": "Minneapolis",
+    "value": "Minneapolis"
+  },
+  {
+    "text": "Minnetonka",
+    "value": "Minnetonka"
+  },
+  {
+    "text": "Minot",
+    "value": "Minot"
+  },
+  {
+    "text": "Miramar",
+    "value": "Miramar"
+  },
+  {
+    "text": "Mishawaka",
+    "value": "Mishawaka"
+  },
+  {
+    "text": "Mission",
+    "value": "Mission"
+  },
+  {
+    "text": "Mission Viejo",
+    "value": "Mission Viejo"
+  },
+  {
+    "text": "Missoula",
+    "value": "Missoula"
+  },
+  {
+    "text": "Missouri City",
+    "value": "Missouri City"
+  },
+  {
+    "text": "Mobile",
+    "value": "Mobile"
+  },
+  {
+    "text": "Modesto",
+    "value": "Modesto"
+  },
+  {
+    "text": "Moline",
+    "value": "Moline"
+  },
+  {
+    "text": "Monroe",
+    "value": "Monroe"
+  },
+  {
+    "text": "Monrovia",
+    "value": "Monrovia"
+  },
+  {
+    "text": "Montclair",
+    "value": "Montclair"
+  },
+  {
+    "text": "Montebello",
+    "value": "Montebello"
+  },
+  {
+    "text": "Monterey Park",
+    "value": "Monterey Park"
+  },
+  {
+    "text": "Montgomery",
+    "value": "Montgomery"
+  },
+  {
+    "text": "Moore",
+    "value": "Moore"
+  },
+  {
+    "text": "Moorhead",
+    "value": "Moorhead"
+  },
+  {
+    "text": "Moreno Valley",
+    "value": "Moreno Valley"
+  },
+  {
+    "text": "Morgan Hill",
+    "value": "Morgan Hill"
+  },
+  {
+    "text": "Mount Pleasant",
+    "value": "Mount Pleasant"
+  },
+  {
+    "text": "Mount Prospect",
+    "value": "Mount Prospect"
+  },
+  {
+    "text": "Mount Vernon",
+    "value": "Mount Vernon"
+  },
+  {
+    "text": "Mountain View",
+    "value": "Mountain View"
+  },
+  {
+    "text": "Muncie",
+    "value": "Muncie"
+  },
+  {
+    "text": "Murfreesboro",
+    "value": "Murfreesboro"
+  },
+  {
+    "text": "Murray",
+    "value": "Murray"
+  },
+  {
+    "text": "Murrieta",
+    "value": "Murrieta"
+  },
+  {
+    "text": "Muskegon",
+    "value": "Muskegon"
+  },
+  {
+    "text": "Muskogee",
+    "value": "Muskogee"
+  },
+  {
+    "text": "Nampa",
+    "value": "Nampa"
+  },
+  {
+    "text": "Napa",
+    "value": "Napa"
+  },
+  {
+    "text": "Naperville",
+    "value": "Naperville"
+  },
+  {
+    "text": "Nashua",
+    "value": "Nashua"
+  },
+  {
+    "text": "Nashville-Davidson",
+    "value": "Nashville-Davidson"
+  },
+  {
+    "text": "National City",
+    "value": "National City"
+  },
+  {
+    "text": "New Bedford",
+    "value": "New Bedford"
+  },
+  {
+    "text": "New Berlin",
+    "value": "New Berlin"
+  },
+  {
+    "text": "New Braunfels",
+    "value": "New Braunfels"
+  },
+  {
+    "text": "New Britain",
+    "value": "New Britain"
+  },
+  {
+    "text": "New Brunswick",
+    "value": "New Brunswick"
+  },
+  {
+    "text": "New Haven",
+    "value": "New Haven"
+  },
+  {
+    "text": "New Orleans",
+    "value": "New Orleans"
+  },
+  {
+    "text": "New Rochelle",
+    "value": "New Rochelle"
+  },
+  {
+    "text": "New York",
+    "value": "New York"
+  },
+  {
+    "text": "Newark",
+    "value": "Newark"
+  },
+  {
+    "text": "Newport Beach",
+    "value": "Newport Beach"
+  },
+  {
+    "text": "Newport News",
+    "value": "Newport News"
+  },
+  {
+    "text": "Newton",
+    "value": "Newton"
+  },
+  {
+    "text": "Niagara Falls",
+    "value": "Niagara Falls"
+  },
+  {
+    "text": "Noblesville",
+    "value": "Noblesville"
+  },
+  {
+    "text": "Norfolk",
+    "value": "Norfolk"
+  },
+  {
+    "text": "Normal",
+    "value": "Normal"
+  },
+  {
+    "text": "Norman",
+    "value": "Norman"
+  },
+  {
+    "text": "North Charleston",
+    "value": "North Charleston"
+  },
+  {
+    "text": "North Las Vegas",
+    "value": "North Las Vegas"
+  },
+  {
+    "text": "North Lauderdale",
+    "value": "North Lauderdale"
+  },
+  {
+    "text": "North Little Rock",
+    "value": "North Little Rock"
+  },
+  {
+    "text": "North Miami",
+    "value": "North Miami"
+  },
+  {
+    "text": "North Miami Beach",
+    "value": "North Miami Beach"
+  },
+  {
+    "text": "North Port",
+    "value": "North Port"
+  },
+  {
+    "text": "North Richland Hills",
+    "value": "North Richland Hills"
+  },
+  {
+    "text": "Northglenn",
+    "value": "Northglenn"
+  },
+  {
+    "text": "Norwalk",
+    "value": "Norwalk"
+  },
+  {
+    "text": "Norwich",
+    "value": "Norwich"
+  },
+  {
+    "text": "Novato",
+    "value": "Novato"
+  },
+  {
+    "text": "Novi",
+    "value": "Novi"
+  },
+  {
+    "text": "O'Fallon",
+    "value": "O'Fallon"
+  },
+  {
+    "text": "Oak Lawn",
+    "value": "Oak Lawn"
+  },
+  {
+    "text": "Oak Park",
+    "value": "Oak Park"
+  },
+  {
+    "text": "Oakland",
+    "value": "Oakland"
+  },
+  {
+    "text": "Oakland Park",
+    "value": "Oakland Park"
+  },
+  {
+    "text": "Oakley",
+    "value": "Oakley"
+  },
+  {
+    "text": "Ocala",
+    "value": "Ocala"
+  },
+  {
+    "text": "Oceanside",
+    "value": "Oceanside"
+  },
+  {
+    "text": "Ocoee",
+    "value": "Ocoee"
+  },
+  {
+    "text": "Odessa",
+    "value": "Odessa"
+  },
+  {
+    "text": "Ogden",
+    "value": "Ogden"
+  },
+  {
+    "text": "Oklahoma City",
+    "value": "Oklahoma City"
+  },
+  {
+    "text": "Olathe",
+    "value": "Olathe"
+  },
+  {
+    "text": "Olympia",
+    "value": "Olympia"
+  },
+  {
+    "text": "Omaha",
+    "value": "Omaha"
+  },
+  {
+    "text": "Ontario",
+    "value": "Ontario"
+  },
+  {
+    "text": "Orange",
+    "value": "Orange"
+  },
+  {
+    "text": "Orem",
+    "value": "Orem"
+  },
+  {
+    "text": "Orland Park",
+    "value": "Orland Park"
+  },
+  {
+    "text": "Orlando",
+    "value": "Orlando"
+  },
+  {
+    "text": "Ormond Beach",
+    "value": "Ormond Beach"
+  },
+  {
+    "text": "Oro Valley",
+    "value": "Oro Valley"
+  },
+  {
+    "text": "Oshkosh",
+    "value": "Oshkosh"
+  },
+  {
+    "text": "Overland Park",
+    "value": "Overland Park"
+  },
+  {
+    "text": "Owensboro",
+    "value": "Owensboro"
+  },
+  {
+    "text": "Oxnard",
+    "value": "Oxnard"
+  },
+  {
+    "text": "Pacifica",
+    "value": "Pacifica"
+  },
+  {
+    "text": "Palatine",
+    "value": "Palatine"
+  },
+  {
+    "text": "Palm Bay",
+    "value": "Palm Bay"
+  },
+  {
+    "text": "Palm Beach Gardens",
+    "value": "Palm Beach Gardens"
+  },
+  {
+    "text": "Palm Coast",
+    "value": "Palm Coast"
+  },
+  {
+    "text": "Palm Desert",
+    "value": "Palm Desert"
+  },
+  {
+    "text": "Palm Springs",
+    "value": "Palm Springs"
+  },
+  {
+    "text": "Palmdale",
+    "value": "Palmdale"
+  },
+  {
+    "text": "Palo Alto",
+    "value": "Palo Alto"
+  },
+  {
+    "text": "Panama City",
+    "value": "Panama City"
+  },
+  {
+    "text": "Paramount",
+    "value": "Paramount"
+  },
+  {
+    "text": "Park Ridge",
+    "value": "Park Ridge"
+  },
+  {
+    "text": "Parker",
+    "value": "Parker"
+  },
+  {
+    "text": "Parma",
+    "value": "Parma"
+  },
+  {
+    "text": "Pasadena",
+    "value": "Pasadena"
+  },
+  {
+    "text": "Pasco",
+    "value": "Pasco"
+  },
+  {
+    "text": "Passaic",
+    "value": "Passaic"
+  },
+  {
+    "text": "Paterson",
+    "value": "Paterson"
+  },
+  {
+    "text": "Pawtucket",
+    "value": "Pawtucket"
+  },
+  {
+    "text": "Peabody",
+    "value": "Peabody"
+  },
+  {
+    "text": "Peachtree Corners",
+    "value": "Peachtree Corners"
+  },
+  {
+    "text": "Pearland",
+    "value": "Pearland"
+  },
+  {
+    "text": "Pembroke Pines",
+    "value": "Pembroke Pines"
+  },
+  {
+    "text": "Pensacola",
+    "value": "Pensacola"
+  },
+  {
+    "text": "Peoria",
+    "value": "Peoria"
+  },
+  {
+    "text": "Perris",
+    "value": "Perris"
+  },
+  {
+    "text": "Perth Amboy",
+    "value": "Perth Amboy"
+  },
+  {
+    "text": "Petaluma",
+    "value": "Petaluma"
+  },
+  {
+    "text": "Pflugerville",
+    "value": "Pflugerville"
+  },
+  {
+    "text": "Pharr",
+    "value": "Pharr"
+  },
+  {
+    "text": "Phenix City",
+    "value": "Phenix City"
+  },
+  {
+    "text": "Philadelphia",
+    "value": "Philadelphia"
+  },
+  {
+    "text": "Phoenix",
+    "value": "Phoenix"
+  },
+  {
+    "text": "Pico Rivera",
+    "value": "Pico Rivera"
+  },
+  {
+    "text": "Pine Bluff",
+    "value": "Pine Bluff"
+  },
+  {
+    "text": "Pinellas Park",
+    "value": "Pinellas Park"
+  },
+  {
+    "text": "Pittsburg",
+    "value": "Pittsburg"
+  },
+  {
+    "text": "Pittsburgh",
+    "value": "Pittsburgh"
+  },
+  {
+    "text": "Pittsfield",
+    "value": "Pittsfield"
+  },
+  {
+    "text": "Placentia",
+    "value": "Placentia"
+  },
+  {
+    "text": "Plainfield",
+    "value": "Plainfield"
+  },
+  {
+    "text": "Plano",
+    "value": "Plano"
+  },
+  {
+    "text": "Plantation",
+    "value": "Plantation"
+  },
+  {
+    "text": "Pleasanton",
+    "value": "Pleasanton"
+  },
+  {
+    "text": "Plymouth",
+    "value": "Plymouth"
+  },
+  {
+    "text": "Pocatello",
+    "value": "Pocatello"
+  },
+  {
+    "text": "Pomona",
+    "value": "Pomona"
+  },
+  {
+    "text": "Pompano Beach",
+    "value": "Pompano Beach"
+  },
+  {
+    "text": "Pontiac",
+    "value": "Pontiac"
+  },
+  {
+    "text": "Port Arthur",
+    "value": "Port Arthur"
+  },
+  {
+    "text": "Port Orange",
+    "value": "Port Orange"
+  },
+  {
+    "text": "Port St. Lucie",
+    "value": "Port St. Lucie"
+  },
+  {
+    "text": "Portage",
+    "value": "Portage"
+  },
+  {
+    "text": "Porterville",
+    "value": "Porterville"
+  },
+  {
+    "text": "Portland",
+    "value": "Portland"
+  },
+  {
+    "text": "Portsmouth",
+    "value": "Portsmouth"
+  },
+  {
+    "text": "Poway",
+    "value": "Poway"
+  },
+  {
+    "text": "Prescott",
+    "value": "Prescott"
+  },
+  {
+    "text": "Prescott Valley",
+    "value": "Prescott Valley"
+  },
+  {
+    "text": "Providence",
+    "value": "Providence"
+  },
+  {
+    "text": "Provo",
+    "value": "Provo"
+  },
+  {
+    "text": "Pueblo",
+    "value": "Pueblo"
+  },
+  {
+    "text": "Puyallup",
+    "value": "Puyallup"
+  },
+  {
+    "text": "Quincy",
+    "value": "Quincy"
+  },
+  {
+    "text": "Racine",
+    "value": "Racine"
+  },
+  {
+    "text": "Raleigh",
+    "value": "Raleigh"
+  },
+  {
+    "text": "Rancho Cordova",
+    "value": "Rancho Cordova"
+  },
+  {
+    "text": "Rancho Cucamonga",
+    "value": "Rancho Cucamonga"
+  },
+  {
+    "text": "Rancho Palos Verdes",
+    "value": "Rancho Palos Verdes"
+  },
+  {
+    "text": "Rancho Santa Margarita",
+    "value": "Rancho Santa Margarita"
+  },
+  {
+    "text": "Rapid City",
+    "value": "Rapid City"
+  },
+  {
+    "text": "Reading",
+    "value": "Reading"
+  },
+  {
+    "text": "Redding",
+    "value": "Redding"
+  },
+  {
+    "text": "Redlands",
+    "value": "Redlands"
+  },
+  {
+    "text": "Redmond",
+    "value": "Redmond"
+  },
+  {
+    "text": "Redondo Beach",
+    "value": "Redondo Beach"
+  },
+  {
+    "text": "Redwood City",
+    "value": "Redwood City"
+  },
+  {
+    "text": "Reno",
+    "value": "Reno"
+  },
+  {
+    "text": "Renton",
+    "value": "Renton"
+  },
+  {
+    "text": "Revere",
+    "value": "Revere"
+  },
+  {
+    "text": "Rialto",
+    "value": "Rialto"
+  },
+  {
+    "text": "Richardson",
+    "value": "Richardson"
+  },
+  {
+    "text": "Richland",
+    "value": "Richland"
+  },
+  {
+    "text": "Richmond",
+    "value": "Richmond"
+  },
+  {
+    "text": "Rio Rancho",
+    "value": "Rio Rancho"
+  },
+  {
+    "text": "Riverside",
+    "value": "Riverside"
+  },
+  {
+    "text": "Riverton",
+    "value": "Riverton"
+  },
+  {
+    "text": "Roanoke",
+    "value": "Roanoke"
+  },
+  {
+    "text": "Rochester",
+    "value": "Rochester"
+  },
+  {
+    "text": "Rochester Hills",
+    "value": "Rochester Hills"
+  },
+  {
+    "text": "Rock Hill",
+    "value": "Rock Hill"
+  },
+  {
+    "text": "Rock Island",
+    "value": "Rock Island"
+  },
+  {
+    "text": "Rockford",
+    "value": "Rockford"
+  },
+  {
+    "text": "Rocklin",
+    "value": "Rocklin"
+  },
+  {
+    "text": "Rockville",
+    "value": "Rockville"
+  },
+  {
+    "text": "Rockwall",
+    "value": "Rockwall"
+  },
+  {
+    "text": "Rocky Mount",
+    "value": "Rocky Mount"
+  },
+  {
+    "text": "Rogers",
+    "value": "Rogers"
+  },
+  {
+    "text": "Rohnert Park",
+    "value": "Rohnert Park"
+  },
+  {
+    "text": "Romeoville",
+    "value": "Romeoville"
+  },
+  {
+    "text": "Rosemead",
+    "value": "Rosemead"
+  },
+  {
+    "text": "Roseville",
+    "value": "Roseville"
+  },
+  {
+    "text": "Roswell",
+    "value": "Roswell"
+  },
+  {
+    "text": "Round Rock",
+    "value": "Round Rock"
+  },
+  {
+    "text": "Rowlett",
+    "value": "Rowlett"
+  },
+  {
+    "text": "Roy",
+    "value": "Roy"
+  },
+  {
+    "text": "Royal Oak",
+    "value": "Royal Oak"
+  },
+  {
+    "text": "Sacramento",
+    "value": "Sacramento"
+  },
+  {
+    "text": "Saginaw",
+    "value": "Saginaw"
+  },
+  {
+    "text": "Salem",
+    "value": "Salem"
+  },
+  {
+    "text": "Salina",
+    "value": "Salina"
+  },
+  {
+    "text": "Salinas",
+    "value": "Salinas"
+  },
+  {
+    "text": "Salt Lake City",
+    "value": "Salt Lake City"
+  },
+  {
+    "text": "Sammamish",
+    "value": "Sammamish"
+  },
+  {
+    "text": "San Angelo",
+    "value": "San Angelo"
+  },
+  {
+    "text": "San Antonio",
+    "value": "San Antonio"
+  },
+  {
+    "text": "San Bernardino",
+    "value": "San Bernardino"
+  },
+  {
+    "text": "San Bruno",
+    "value": "San Bruno"
+  },
+  {
+    "text": "San Buenaventura (Ventura)",
+    "value": "San Buenaventura (Ventura)"
+  },
+  {
+    "text": "San Clemente",
+    "value": "San Clemente"
+  },
+  {
+    "text": "San Diego",
+    "value": "San Diego"
+  },
+  {
+    "text": "San Francisco",
+    "value": "San Francisco"
+  },
+  {
+    "text": "San Gabriel",
+    "value": "San Gabriel"
+  },
+  {
+    "text": "San Jacinto",
+    "value": "San Jacinto"
+  },
+  {
+    "text": "San Jose",
+    "value": "San Jose"
+  },
+  {
+    "text": "San Leandro",
+    "value": "San Leandro"
+  },
+  {
+    "text": "San Luis Obispo",
+    "value": "San Luis Obispo"
+  },
+  {
+    "text": "San Marcos",
+    "value": "San Marcos"
+  },
+  {
+    "text": "San Mateo",
+    "value": "San Mateo"
+  },
+  {
+    "text": "San Rafael",
+    "value": "San Rafael"
+  },
+  {
+    "text": "San Ramon",
+    "value": "San Ramon"
+  },
+  {
+    "text": "Sandy",
+    "value": "Sandy"
+  },
+  {
+    "text": "Sandy Springs",
+    "value": "Sandy Springs"
+  },
+  {
+    "text": "Sanford",
+    "value": "Sanford"
+  },
+  {
+    "text": "Santa Ana",
+    "value": "Santa Ana"
+  },
+  {
+    "text": "Santa Barbara",
+    "value": "Santa Barbara"
+  },
+  {
+    "text": "Santa Clara",
+    "value": "Santa Clara"
+  },
+  {
+    "text": "Santa Clarita",
+    "value": "Santa Clarita"
+  },
+  {
+    "text": "Santa Cruz",
+    "value": "Santa Cruz"
+  },
+  {
+    "text": "Santa Fe",
+    "value": "Santa Fe"
+  },
+  {
+    "text": "Santa Maria",
+    "value": "Santa Maria"
+  },
+  {
+    "text": "Santa Monica",
+    "value": "Santa Monica"
+  },
+  {
+    "text": "Santa Rosa",
+    "value": "Santa Rosa"
+  },
+  {
+    "text": "Santee",
+    "value": "Santee"
+  },
+  {
+    "text": "Sarasota",
+    "value": "Sarasota"
+  },
+  {
+    "text": "Savannah",
+    "value": "Savannah"
+  },
+  {
+    "text": "Sayreville",
+    "value": "Sayreville"
+  },
+  {
+    "text": "Schaumburg",
+    "value": "Schaumburg"
+  },
+  {
+    "text": "Schenectady",
+    "value": "Schenectady"
+  },
+  {
+    "text": "Scottsdale",
+    "value": "Scottsdale"
+  },
+  {
+    "text": "Scranton",
+    "value": "Scranton"
+  },
+  {
+    "text": "Seattle",
+    "value": "Seattle"
+  },
+  {
+    "text": "Shakopee",
+    "value": "Shakopee"
+  },
+  {
+    "text": "Shawnee",
+    "value": "Shawnee"
+  },
+  {
+    "text": "Sheboygan",
+    "value": "Sheboygan"
+  },
+  {
+    "text": "Shelton",
+    "value": "Shelton"
+  },
+  {
+    "text": "Sherman",
+    "value": "Sherman"
+  },
+  {
+    "text": "Shoreline",
+    "value": "Shoreline"
+  },
+  {
+    "text": "Shreveport",
+    "value": "Shreveport"
+  },
+  {
+    "text": "Sierra Vista",
+    "value": "Sierra Vista"
+  },
+  {
+    "text": "Simi Valley",
+    "value": "Simi Valley"
+  },
+  {
+    "text": "Sioux City",
+    "value": "Sioux City"
+  },
+  {
+    "text": "Sioux Falls",
+    "value": "Sioux Falls"
+  },
+  {
+    "text": "Skokie",
+    "value": "Skokie"
+  },
+  {
+    "text": "Smyrna",
+    "value": "Smyrna"
+  },
+  {
+    "text": "Somerville",
+    "value": "Somerville"
+  },
+  {
+    "text": "South Bend",
+    "value": "South Bend"
+  },
+  {
+    "text": "South Gate",
+    "value": "South Gate"
+  },
+  {
+    "text": "South Jordan",
+    "value": "South Jordan"
+  },
+  {
+    "text": "South San Francisco",
+    "value": "South San Francisco"
+  },
+  {
+    "text": "Southaven",
+    "value": "Southaven"
+  },
+  {
+    "text": "Southfield",
+    "value": "Southfield"
+  },
+  {
+    "text": "Spanish Fork",
+    "value": "Spanish Fork"
+  },
+  {
+    "text": "Sparks",
+    "value": "Sparks"
+  },
+  {
+    "text": "Spartanburg",
+    "value": "Spartanburg"
+  },
+  {
+    "text": "Spokane",
+    "value": "Spokane"
+  },
+  {
+    "text": "Spokane Valley",
+    "value": "Spokane Valley"
+  },
+  {
+    "text": "Springdale",
+    "value": "Springdale"
+  },
+  {
+    "text": "Springfield",
+    "value": "Springfield"
+  },
+  {
+    "text": "St. Charles",
+    "value": "St. Charles"
+  },
+  {
+    "text": "St. Clair Shores",
+    "value": "St. Clair Shores"
+  },
+  {
+    "text": "St. Cloud",
+    "value": "St. Cloud"
+  },
+  {
+    "text": "St. George",
+    "value": "St. George"
+  },
+  {
+    "text": "St. Joseph",
+    "value": "St. Joseph"
+  },
+  {
+    "text": "St. Louis",
+    "value": "St. Louis"
+  },
+  {
+    "text": "St. Louis Park",
+    "value": "St. Louis Park"
+  },
+  {
+    "text": "St. Paul",
+    "value": "St. Paul"
+  },
+  {
+    "text": "St. Peters",
+    "value": "St. Peters"
+  },
+  {
+    "text": "St. Petersburg",
+    "value": "St. Petersburg"
+  },
+  {
+    "text": "Stamford",
+    "value": "Stamford"
+  },
+  {
+    "text": "Stanton",
+    "value": "Stanton"
+  },
+  {
+    "text": "State College",
+    "value": "State College"
+  },
+  {
+    "text": "Sterling Heights",
+    "value": "Sterling Heights"
+  },
+  {
+    "text": "Stillwater",
+    "value": "Stillwater"
+  },
+  {
+    "text": "Stockton",
+    "value": "Stockton"
+  },
+  {
+    "text": "Streamwood",
+    "value": "Streamwood"
+  },
+  {
+    "text": "Strongsville",
+    "value": "Strongsville"
+  },
+  {
+    "text": "Suffolk",
+    "value": "Suffolk"
+  },
+  {
+    "text": "Sugar Land",
+    "value": "Sugar Land"
+  },
+  {
+    "text": "Summerville",
+    "value": "Summerville"
+  },
+  {
+    "text": "Sumter",
+    "value": "Sumter"
+  },
+  {
+    "text": "Sunnyvale",
+    "value": "Sunnyvale"
+  },
+  {
+    "text": "Sunrise",
+    "value": "Sunrise"
+  },
+  {
+    "text": "Surprise",
+    "value": "Surprise"
+  },
+  {
+    "text": "Syracuse",
+    "value": "Syracuse"
+  },
+  {
+    "text": "Tacoma",
+    "value": "Tacoma"
+  },
+  {
+    "text": "Tallahassee",
+    "value": "Tallahassee"
+  },
+  {
+    "text": "Tamarac",
+    "value": "Tamarac"
+  },
+  {
+    "text": "Tampa",
+    "value": "Tampa"
+  },
+  {
+    "text": "Taunton",
+    "value": "Taunton"
+  },
+  {
+    "text": "Taylor",
+    "value": "Taylor"
+  },
+  {
+    "text": "Taylorsville",
+    "value": "Taylorsville"
+  },
+  {
+    "text": "Temecula",
+    "value": "Temecula"
+  },
+  {
+    "text": "Tempe",
+    "value": "Tempe"
+  },
+  {
+    "text": "Temple",
+    "value": "Temple"
+  },
+  {
+    "text": "Terre Haute",
+    "value": "Terre Haute"
+  },
+  {
+    "text": "Texarkana",
+    "value": "Texarkana"
+  },
+  {
+    "text": "Texas City",
+    "value": "Texas City"
+  },
+  {
+    "text": "The Colony",
+    "value": "The Colony"
+  },
+  {
+    "text": "Thornton",
+    "value": "Thornton"
+  },
+  {
+    "text": "Thousand Oaks",
+    "value": "Thousand Oaks"
+  },
+  {
+    "text": "Tigard",
+    "value": "Tigard"
+  },
+  {
+    "text": "Tinley Park",
+    "value": "Tinley Park"
+  },
+  {
+    "text": "Titusville",
+    "value": "Titusville"
+  },
+  {
+    "text": "Toledo",
+    "value": "Toledo"
+  },
+  {
+    "text": "Topeka",
+    "value": "Topeka"
+  },
+  {
+    "text": "Torrance",
+    "value": "Torrance"
+  },
+  {
+    "text": "Tracy",
+    "value": "Tracy"
+  },
+  {
+    "text": "Trenton",
+    "value": "Trenton"
+  },
+  {
+    "text": "Troy",
+    "value": "Troy"
+  },
+  {
+    "text": "Tucson",
+    "value": "Tucson"
+  },
+  {
+    "text": "Tulare",
+    "value": "Tulare"
+  },
+  {
+    "text": "Tulsa",
+    "value": "Tulsa"
+  },
+  {
+    "text": "Turlock",
+    "value": "Turlock"
+  },
+  {
+    "text": "Tuscaloosa",
+    "value": "Tuscaloosa"
+  },
+  {
+    "text": "Tustin",
+    "value": "Tustin"
+  },
+  {
+    "text": "Twin Falls",
+    "value": "Twin Falls"
+  },
+  {
+    "text": "Tyler",
+    "value": "Tyler"
+  },
+  {
+    "text": "Union City",
+    "value": "Union City"
+  },
+  {
+    "text": "Upland",
+    "value": "Upland"
+  },
+  {
+    "text": "Urbana",
+    "value": "Urbana"
+  },
+  {
+    "text": "Urbandale",
+    "value": "Urbandale"
+  },
+  {
+    "text": "Utica",
+    "value": "Utica"
+  },
+  {
+    "text": "Vacaville",
+    "value": "Vacaville"
+  },
+  {
+    "text": "Valdosta",
+    "value": "Valdosta"
+  },
+  {
+    "text": "Vallejo",
+    "value": "Vallejo"
+  },
+  {
+    "text": "Valley Stream",
+    "value": "Valley Stream"
+  },
+  {
+    "text": "Vancouver",
+    "value": "Vancouver"
+  },
+  {
+    "text": "Victoria",
+    "value": "Victoria"
+  },
+  {
+    "text": "Victorville",
+    "value": "Victorville"
+  },
+  {
+    "text": "Vineland",
+    "value": "Vineland"
+  },
+  {
+    "text": "Virginia Beach",
+    "value": "Virginia Beach"
+  },
+  {
+    "text": "Visalia",
+    "value": "Visalia"
+  },
+  {
+    "text": "Vista",
+    "value": "Vista"
+  },
+  {
+    "text": "Waco",
+    "value": "Waco"
+  },
+  {
+    "text": "Walnut Creek",
+    "value": "Walnut Creek"
+  },
+  {
+    "text": "Waltham",
+    "value": "Waltham"
+  },
+  {
+    "text": "Warner Robins",
+    "value": "Warner Robins"
+  },
+  {
+    "text": "Warren",
+    "value": "Warren"
+  },
+  {
+    "text": "Warwick",
+    "value": "Warwick"
+  },
+  {
+    "text": "Washington",
+    "value": "Washington"
+  },
+  {
+    "text": "Waterbury",
+    "value": "Waterbury"
+  },
+  {
+    "text": "Waterloo",
+    "value": "Waterloo"
+  },
+  {
+    "text": "Watsonville",
+    "value": "Watsonville"
+  },
+  {
+    "text": "Waukegan",
+    "value": "Waukegan"
+  },
+  {
+    "text": "Waukesha",
+    "value": "Waukesha"
+  },
+  {
+    "text": "Wausau",
+    "value": "Wausau"
+  },
+  {
+    "text": "Wauwatosa",
+    "value": "Wauwatosa"
+  },
+  {
+    "text": "Wellington",
+    "value": "Wellington"
+  },
+  {
+    "text": "Weslaco",
+    "value": "Weslaco"
+  },
+  {
+    "text": "West Allis",
+    "value": "West Allis"
+  },
+  {
+    "text": "West Covina",
+    "value": "West Covina"
+  },
+  {
+    "text": "West Des Moines",
+    "value": "West Des Moines"
+  },
+  {
+    "text": "West Haven",
+    "value": "West Haven"
+  },
+  {
+    "text": "West Jordan",
+    "value": "West Jordan"
+  },
+  {
+    "text": "West New York",
+    "value": "West New York"
+  },
+  {
+    "text": "West Palm Beach",
+    "value": "West Palm Beach"
+  },
+  {
+    "text": "West Sacramento",
+    "value": "West Sacramento"
+  },
+  {
+    "text": "West Valley City",
+    "value": "West Valley City"
+  },
+  {
+    "text": "Westerville",
+    "value": "Westerville"
+  },
+  {
+    "text": "Westfield",
+    "value": "Westfield"
+  },
+  {
+    "text": "Westland",
+    "value": "Westland"
+  },
+  {
+    "text": "Westminster",
+    "value": "Westminster"
+  },
+  {
+    "text": "Weston",
+    "value": "Weston"
+  },
+  {
+    "text": "Weymouth Town",
+    "value": "Weymouth Town"
+  },
+  {
+    "text": "Wheaton",
+    "value": "Wheaton"
+  },
+  {
+    "text": "Wheeling",
+    "value": "Wheeling"
+  },
+  {
+    "text": "White Plains",
+    "value": "White Plains"
+  },
+  {
+    "text": "Whittier",
+    "value": "Whittier"
+  },
+  {
+    "text": "Wichita",
+    "value": "Wichita"
+  },
+  {
+    "text": "Wichita Falls",
+    "value": "Wichita Falls"
+  },
+  {
+    "text": "Wilkes-Barre",
+    "value": "Wilkes-Barre"
+  },
+  {
+    "text": "Wilmington",
+    "value": "Wilmington"
+  },
+  {
+    "text": "Wilson",
+    "value": "Wilson"
+  },
+  {
+    "text": "Winston-Salem",
+    "value": "Winston-Salem"
+  },
+  {
+    "text": "Winter Garden",
+    "value": "Winter Garden"
+  },
+  {
+    "text": "Woburn",
+    "value": "Woburn"
+  },
+  {
+    "text": "Woodbury",
+    "value": "Woodbury"
+  },
+  {
+    "text": "Woodland",
+    "value": "Woodland"
+  },
+  {
+    "text": "Woonsocket",
+    "value": "Woonsocket"
+  },
+  {
+    "text": "Worcester",
+    "value": "Worcester"
+  },
+  {
+    "text": "Wylie",
+    "value": "Wylie"
+  },
+  {
+    "text": "Wyoming",
+    "value": "Wyoming"
+  },
+  {
+    "text": "Yakima",
+    "value": "Yakima"
+  },
+  {
+    "text": "Yonkers",
+    "value": "Yonkers"
+  },
+  {
+    "text": "Yorba Linda",
+    "value": "Yorba Linda"
+  },
+  {
+    "text": "York",
+    "value": "York"
+  },
+  {
+    "text": "Youngstown",
+    "value": "Youngstown"
+  },
+  {
+    "text": "Yuba City",
+    "value": "Yuba City"
+  },
+  {
+    "text": "Yucaipa",
+    "value": "Yucaipa"
+  },
+  {
+    "text": "Yuma",
+    "value": "Yuma"
+  }
+]

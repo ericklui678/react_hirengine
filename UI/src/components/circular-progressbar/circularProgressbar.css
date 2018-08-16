@@ -1,0 +1,57 @@
+.circle-progress {
+  overflow: hidden;
+  position: relative;
+  background-color: #e3e3e3;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.left-wrap {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+}
+
+.right-wrap {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+}
+
+.loader {
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1000;
+  transform-origin: 0 50%;
+}
+
+.loader2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1000;
+  transform-origin: 100% 50%;
+}
+
+.inner-circle {
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-progress .text span {
+  font-weight: 100;
+  display: block;
+}
+
+.circle-progress .text .percent {
+  font-size: 24pt !important;
+}
+
+.circle-progress .text .subtext {
+  font-size: 20pt !important;
+}
